@@ -52,22 +52,22 @@ You can browse other users' goals and motivate them by leaving a like or a comme
 
 ## Wireframe
  
+### Home Page
+
+![homePage](/img/home.png)
+
  ### User Profile page
  
-![profilePage](/img/wf-profile.jpg)
+![profilePage](/img/profile.png)
 
 ### Goals Index 
 
-![goalIndex](/img/wf-goalindex.jpg)
+![goalIndex](/img/goals.png)
+
+### Create a Goal
+
+![goalcreate](/img/goalform.png)
 
 ### Goal Show
 
-![goalshow](/img/wf-goalshow.jpg)
-
-### Goal Create
-
-![goalcreate](/img/wf-goalcreate.jpg)
-
-### Chat page
-
-![chatpage](/img/wireframe-chat.jpg)
+![goalshow](/img/goalshow.png)
